@@ -6,7 +6,7 @@ This repository presents a comprehensive research pipeline for automated assignm
 
 ## 🎯 Parts
 
-1. **Automated Content Processing**: Extract and process educational content from PDF textbooks
+1. **Automated Content Processing**: Extract and process educational content from PDF textbooks.
 2. **Intelligent Question Generation**: Generate diverse assignment questions using LLMs
 3. **Quality Enhancement**: Improve question quality through iterative refinement
 4. **Model Fine-tuning**: Optimize models for domain-specific question generation
