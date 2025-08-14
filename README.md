@@ -1,3 +1,5 @@
+![Framework](daigrams/framework.png)
+
 # LLM-Based Automated Assignment Question Generation: A Comprehensive Research Pipeline
 
 ## 📋 Abstract
